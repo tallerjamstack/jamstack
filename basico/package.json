@@ -1,0 +1,14 @@
+{
+  "name": "basic",
+  "version": "0.0.1",
+  "main": "n/a",
+  "author": "",
+  "scripts": {
+    "serve": "serve"
+  },
+  "devDependencies": {
+    "serve": "^11.2.0"
+  },
+  "license": "MIT",
+  "private": true
+}
